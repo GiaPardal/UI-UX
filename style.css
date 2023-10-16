@@ -1,0 +1,15 @@
+.line{
+    width: 100px;
+    height: 6px;
+    background-color: blueviolet;
+}
+
+body{
+    background: linear-gradient(blueviolet 0%, coral 100%);
+}
+
+h1{
+    font-variant:small-caps;
+    font-size:50px;
+    font-family:Arial, Helvetica, sans-serif;
+}
